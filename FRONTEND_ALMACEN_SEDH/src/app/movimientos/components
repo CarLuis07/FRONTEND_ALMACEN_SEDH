@@ -1,0 +1,7 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-movimientos',
+  template: '<h1>Movimientos Module</h1>'
+})
+export class MovimientosComponent { }

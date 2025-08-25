@@ -1,0 +1,7 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-acceso',
+  template: '<h1>Acceso Module</h1>'
+})
+export class AccesoComponent { }
