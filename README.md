@@ -1,0 +1,2 @@
+# FRONTEND_ALMACEN_SEDH
+Sistema de Almacen 2025
